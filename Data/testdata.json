@@ -1,0 +1,16 @@
+{
+    "Login":{
+        "mailId": "testurlSampl87@gmil.com",
+        "firstName": "Akhila",
+        "lastName": "Anumolu",
+        "password": "123456",
+        "Address": "4-45 Test",
+        "City": "TestCity",
+        "Zip": "00001",
+        "mobileNumber": "123456",
+        "shirtName": "Faded Short Sleeve T-shirts"
+    }
+
+
+
+}

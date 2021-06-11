@@ -1,0 +1,17 @@
+{
+    "name": "protractor",
+    "author": "Akhila",
+    "description": "",
+    "version": "1.0.0",
+    "dependencies": {
+        "protractor": "^5.3.0",
+        "protractor-jasmine2-screenshot-reporter": "^0.5.0",
+        "selenium-standalone": "^6.5.0",
+        "selenium-webdriver": "^2.53.3"
+    },
+    "devDependencies": {
+        "allure-commandline": "^2.13.8",
+        "jasmine-allure-reporter": "^1.0.2",
+        "protractor-jasmine2-html-reporter": "0.0.7"
+    }
+}
